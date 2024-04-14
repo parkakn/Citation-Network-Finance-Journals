@@ -1,1 +1,1 @@
-# Citation Network of Finance Journal Articles and their Citations Papers on Google Scholar
+# Citation Network of Finance Journal Articles and their Citating Papers on Google Scholar
