@@ -4,7 +4,7 @@ We build a web-scraping program to collect publication data of papers published 
 
 
 <p align="center">
-  <img alt="Dark" src="images/jfe_site.png" width="45%"> 
+  <img alt="Dark" src="Images/jfe_site.png" width="45%"> 
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Light" src="images/gs_citation_ex.png" width="45%">
+  <img alt="Light" src="Images/gs_citation_ex.png" width="45%">
 </p>
