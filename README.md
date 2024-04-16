@@ -5,11 +5,8 @@ We build a web-scraping program to collect publication data of papers published 
 First, our web-scraping program collects the citation data parsing by parsing through the html code of the websites that contain the information of our interest. 
 
 <p align="center">
-  <img alt="Dark" src="Images/jfe_site.png" width="45%"> 
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Light" src="Images/gs_citation_ex.png" width="45%">
+   <img alt="Dark" src="Images/jfe_site.png" width="50%"> 
 </p>
-
 Then, we build the citation network where the nodes are the cited JFE papers and the Google Scholar citing papers and the edges are paper-to-paper citations. 
 
 Using the HoloViz package, we visualize our citation network. Drawing our network allows us to visually spot significant papers based on their connectivity in the network. 
@@ -17,3 +14,9 @@ Using the HoloViz package, we visualize our citation network. Drawing our networ
 <p align="center">
   <img alt="Dark" src="Images/citation_network_plot.png" width="100%"> 
 </p>
+
+[//]: # <p align="center">
+[//]: #   <img alt="Dark" src="Images/jfe_site.png" width="50%"> 
+[//]: # &nbsp; &nbsp; &nbsp; &nbsp;
+[//]: #   <img alt="Light" src="Images/gs_citation_ex.png" width="50%">
+[//]: # </p>
