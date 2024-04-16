@@ -15,5 +15,5 @@ Then, we build the citation network where the nodes are the cited JFE papers and
 Using the HoloViz package, we visualize our citation network. Drawing our network allows us to visually spot significant papers based on their connectivity in the network. 
 
 <p align="center">
-  <img alt="Dark" src="Images/citation_network_plot.png" width="90%"> 
+  <img alt="Dark" src="Images/citation_network_plot.png" width="100%"> 
 </p>
