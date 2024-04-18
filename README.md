@@ -14,8 +14,19 @@ Then, we build the citation network where the nodes are the cited JFE papers and
 
 Using the HoloViz package, we visualize our citation network. Drawing our network allows us to visually spot significant papers based on their connectivity in the network. 
 
+Full view of the citation network:
 <p align="center">
-  <img alt="Dark" src="Images/citation_network_plot.png" width="100%"> 
+  <img alt="Dark" src="Images/citation network full view.png" width="100%"> 
+</p>
+
+Zooming in on a region of nodes, we can visually identify high-degree nodes and low-degree nodes (i.e. we can distinguish the papers that are cited more than others). 
+<p align="center">
+  <img alt="Dark" src="Images/citation network zoom 1.png" width="100%"> 
+</p>
+
+Further zooming in on a few nodes, we observe the local graph structure of specific nodes.
+<p align="center">
+  <img alt="Dark" src="Images/citation network zoom 2.png" width="100%"> 
 </p>
 
 <!--
